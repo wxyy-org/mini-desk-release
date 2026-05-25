@@ -25,7 +25,7 @@
 
 ## 快速开始
 
-1. 下载并打开 Mini Desk.dmg，将 Mini Desk.app 拖入「应用程序」文件夹
+1. 下载并打开 Mini Desk.dmg，将左侧 **Mini Desk.app** 拖入右侧 **Applications（应用程序）**  alias
 2. 启动应用后，菜单栏会出现 Mini Desk 图标
 3. 点击图标 → 设置（⌘,）打开配置面板
 4. 在左侧选择 Displays，为当前已连接的显示器填入网页 URL
